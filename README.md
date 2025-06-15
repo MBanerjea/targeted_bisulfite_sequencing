@@ -136,4 +136,4 @@ meg3_methylation_demo
 ---
 ### System Info
 - macOS Intel, 8 GB RAM
-- Conda environments: `rnaseq`, includes `sra-tools`, `fastqc`, `multiqc`, `fastp`, `samtools`, `Bismark`, `MethylDackel`, ``
+- Conda environments: `rnaseq`, includes `sra-tools`, `fastqc`, `multiqc`, `fastp`, `samtools`, `Bismark`, `MethylDackel` and other required tools.
